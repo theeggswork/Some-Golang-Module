@@ -12,9 +12,9 @@ Multiplicationize (num1, num2) -- multiplys num1 and num2
 
 Divionize (num1, num2) -- divides num2 from num1
 
-# Yet to be added:
-
 Moduloize (num1, num2) -- modulos num2 from num1. haha only works on int types.
+
+# Yet to be added:
 
 # How To Use
 Go to your command line for your project.
@@ -25,6 +25,6 @@ Next, once you set up your go.mod file, Type in "go get -u github.com/theeggswor
 
 You know the rest
 
-SGM.Additionize(5,5) )
+SGM.Additionize(5,5)
 
 And thats it! hope you enjoy
